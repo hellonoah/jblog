@@ -1,3 +1,2 @@
-# jblog
-Blog built on Jekyll
-
+github.io
+=========

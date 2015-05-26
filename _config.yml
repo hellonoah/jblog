@@ -1,0 +1,5 @@
+name: Rahman Hayes
+markdown: redcarpet
+pygments: true
+#pygments: false
+paginate: 6
